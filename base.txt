@@ -1,4 +1,8 @@
 int main(){
+<<<<<<< HEAD
 	É¾³ý
 
+=======
+	chenzx's changeo.1
+>>>>>>> origin/czx
 }
